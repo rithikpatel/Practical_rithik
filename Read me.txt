@@ -1,0 +1,2 @@
+added my practical on git. 
+also added Database backup and Create/Drop script to run my practical.
